@@ -1,0 +1,11 @@
+float64 x_min
+float64 x_max
+float64 y_min
+float64 y_max
+int32   k
+float64 tool_width
+float64 overlap
+int32   max_iters
+float64 eps
+int32   seed
+float64 grid_step

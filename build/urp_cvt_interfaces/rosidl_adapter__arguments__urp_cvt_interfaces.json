@@ -1,0 +1,6 @@
+{
+  "package_name": "urp_cvt_interfaces",
+  "non_idl_tuples": [
+    "/home/songdavid/urp_ws1/src/urp_cvt_interfaces:srv/GenerateCVTSamples.srv"
+  ]
+}

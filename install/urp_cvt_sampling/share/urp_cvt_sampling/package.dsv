@@ -1,0 +1,6 @@
+source;share/urp_cvt_sampling/hook/pythonpath.ps1
+source;share/urp_cvt_sampling/hook/pythonpath.dsv
+source;share/urp_cvt_sampling/hook/pythonpath.sh
+source;share/urp_cvt_sampling/hook/ament_prefix_path.ps1
+source;share/urp_cvt_sampling/hook/ament_prefix_path.dsv
+source;share/urp_cvt_sampling/hook/ament_prefix_path.sh

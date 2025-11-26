@@ -1,0 +1,44 @@
+// generated from rosidl_adapter/resource/srv.idl.em
+// with input from urp_cvt_interfaces/srv/GenerateCVTSamples.srv
+// generated code does not contain a copyright notice
+
+#include "geometry_msgs/msg/PoseArray.idl"
+
+module urp_cvt_interfaces {
+  module srv {
+    struct GenerateCVTSamples_Request {
+      double x_min;
+
+      double x_max;
+
+      double y_min;
+
+      double y_max;
+
+      int32 k;
+
+      double tool_width;
+
+      double overlap;
+
+      int32 max_iters;
+
+      double eps;
+
+      int32 seed;
+
+      double grid_step;
+    };
+    struct GenerateCVTSamples_Response {
+      geometry_msgs::msg::PoseArray waypoints;
+
+      boolean success;
+
+      double mean_movement;
+
+      int32 iters;
+
+      string message;
+    };
+  };
+};

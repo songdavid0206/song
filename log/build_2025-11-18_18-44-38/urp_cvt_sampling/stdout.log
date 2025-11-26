@@ -1,0 +1,20 @@
+running egg_info
+writing ../../build/urp_cvt_sampling/urp_cvt_sampling.egg-info/PKG-INFO
+writing dependency_links to ../../build/urp_cvt_sampling/urp_cvt_sampling.egg-info/dependency_links.txt
+writing entry points to ../../build/urp_cvt_sampling/urp_cvt_sampling.egg-info/entry_points.txt
+writing requirements to ../../build/urp_cvt_sampling/urp_cvt_sampling.egg-info/requires.txt
+writing top-level names to ../../build/urp_cvt_sampling/urp_cvt_sampling.egg-info/top_level.txt
+reading manifest file '../../build/urp_cvt_sampling/urp_cvt_sampling.egg-info/SOURCES.txt'
+writing manifest file '../../build/urp_cvt_sampling/urp_cvt_sampling.egg-info/SOURCES.txt'
+running build
+running build_py
+running install
+running install_lib
+running install_data
+running install_egg_info
+removing '/home/songdavid/urp_ws1/install/urp_cvt_sampling/lib/python3.10/site-packages/urp_cvt_sampling-0.0.1-py3.10.egg-info' (and everything under it)
+Copying ../../build/urp_cvt_sampling/urp_cvt_sampling.egg-info to /home/songdavid/urp_ws1/install/urp_cvt_sampling/lib/python3.10/site-packages/urp_cvt_sampling-0.0.1-py3.10.egg-info
+running install_scripts
+Installing cvt_sampler_node script to /home/songdavid/urp_ws1/install/urp_cvt_sampling/lib/urp_cvt_sampling
+Installing path_planner_node script to /home/songdavid/urp_ws1/install/urp_cvt_sampling/lib/urp_cvt_sampling
+writing list of installed files to '/home/songdavid/urp_ws1/build/urp_cvt_sampling/install.log'

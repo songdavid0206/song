@@ -1,0 +1,4 @@
+source;share/urp_cvt_interfaces/local_setup.bash
+source;share/urp_cvt_interfaces/local_setup.dsv
+source;share/urp_cvt_interfaces/local_setup.sh
+source;share/urp_cvt_interfaces/local_setup.zsh

@@ -1,0 +1,233 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-3fe3279e283c5b46fcd6.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17
+					]
+				},
+				{
+					"build" : "urp_cvt_interfaces__py",
+					"jsonFile" : "directory-urp_cvt_interfaces__py-ed6d02992633cf276933.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "/home/songdavid/urp_ws1/build/urp_cvt_interfaces/urp_cvt_interfaces__py",
+					"targetIndexes" : 
+					[
+						5
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "urp_cvt_interfaces",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_build_urp_cvt_interfaces_egg::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_build_urp_cvt_interfaces_egg-ed3bb5c939bda2123173.json",
+					"name" : "ament_cmake_python_build_urp_cvt_interfaces_egg",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_copy_urp_cvt_interfaces::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_copy_urp_cvt_interfaces-3459dca96415a10ba4cd.json",
+					"name" : "ament_cmake_python_copy_urp_cvt_interfaces",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-fa23fa84262bb7ad3fc8.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "urp_cvt_interfaces::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-urp_cvt_interfaces-56e85bcecc8ae6aaf104.json",
+					"name" : "urp_cvt_interfaces",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "urp_cvt_interfaces__cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-urp_cvt_interfaces__cpp-28379839af3a9784ab88.json",
+					"name" : "urp_cvt_interfaces__cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "urp_cvt_interfaces__py::@2ab1f5ad4396138fb79e",
+					"jsonFile" : "target-urp_cvt_interfaces__py-c340d68848f4695e33fb.json",
+					"name" : "urp_cvt_interfaces__py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "urp_cvt_interfaces__rosidl_generator_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-urp_cvt_interfaces__rosidl_generator_c-92cce24bdefbfa965685.json",
+					"name" : "urp_cvt_interfaces__rosidl_generator_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "urp_cvt_interfaces__rosidl_generator_py::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-urp_cvt_interfaces__rosidl_generator_py-21f3dad8a28357f67f62.json",
+					"name" : "urp_cvt_interfaces__rosidl_generator_py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "urp_cvt_interfaces__rosidl_typesupport_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-urp_cvt_interfaces__rosidl_typesupport_c-d64390f420f41997feac.json",
+					"name" : "urp_cvt_interfaces__rosidl_typesupport_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "urp_cvt_interfaces__rosidl_typesupport_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-urp_cvt_interfaces__rosidl_typesupport_c__pyext-6728ca51243a2c130cfb.json",
+					"name" : "urp_cvt_interfaces__rosidl_typesupport_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "urp_cvt_interfaces__rosidl_typesupport_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-urp_cvt_interfaces__rosidl_typesupport_cpp-ee3254b0ff10844f0864.json",
+					"name" : "urp_cvt_interfaces__rosidl_typesupport_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "urp_cvt_interfaces__rosidl_typesupport_fastrtps_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-urp_cvt_interfaces__rosidl_typesupport_fastrtps_c-5287727da597aa09a3fb.json",
+					"name" : "urp_cvt_interfaces__rosidl_typesupport_fastrtps_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "urp_cvt_interfaces__rosidl_typesupport_fastrtps_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-urp_cvt_interfaces__rosidl_typesupport_fastrtps_c__pyext-ea110859cb2ad2c90bfe.json",
+					"name" : "urp_cvt_interfaces__rosidl_typesupport_fastrtps_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "urp_cvt_interfaces__rosidl_typesupport_fastrtps_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-urp_cvt_interfaces__rosidl_typesupport_fastrtps_cpp-8198f65510920de1fe33.json",
+					"name" : "urp_cvt_interfaces__rosidl_typesupport_fastrtps_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "urp_cvt_interfaces__rosidl_typesupport_introspection_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-urp_cvt_interfaces__rosidl_typesupport_introspection_c-1d843ee0e998e2608977.json",
+					"name" : "urp_cvt_interfaces__rosidl_typesupport_introspection_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "urp_cvt_interfaces__rosidl_typesupport_introspection_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-urp_cvt_interfaces__rosidl_typesupport_introspection_c__pyext-9ff1ba497a3f222f9c37.json",
+					"name" : "urp_cvt_interfaces__rosidl_typesupport_introspection_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "urp_cvt_interfaces__rosidl_typesupport_introspection_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-urp_cvt_interfaces__rosidl_typesupport_introspection_cpp-e633a4de586f81b0595e.json",
+					"name" : "urp_cvt_interfaces__rosidl_typesupport_introspection_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "urp_cvt_interfaces_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-urp_cvt_interfaces_uninstall-1765d2a4ee1f9a7f3e72.json",
+					"name" : "urp_cvt_interfaces_uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/songdavid/urp_ws1/build/urp_cvt_interfaces",
+		"source" : "/home/songdavid/urp_ws1/src/urp_cvt_interfaces"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
