@@ -279,6 +279,7 @@ class CellDecompSampler(Node):
         return res
 
 
+#####
 def main():
     rclpy.init()
     node = CellDecompSampler()
